@@ -5,7 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="50c4f8cb-e616-4fcc-95ee-7f4350c5afdc" name="Changes" comment="entity mapping done, start creating DAO">
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/makos/hiber2/dao/FilmDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/makos/hiber2/domain/RatingConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/makos/hiber2/domain/YearAttributeConverter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/makos/hiber2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/makos/hiber2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/makos/hiber2/dao/CityDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/makos/hiber2/dao/CityDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/makos/hiber2/dao/RentalDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/makos/hiber2/dao/RentalDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/makos/hiber2/domain/Feature.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/makos/hiber2/domain/Feature.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/makos/hiber2/domain/Film.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/makos/hiber2/domain/Film.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/makos/hiber2/domain/Rating.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/makos/hiber2/domain/Rating.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,6 +105,9 @@
       <workItem from="1671425842603" duration="4234000" />
       <workItem from="1671595495182" duration="4230000" />
       <workItem from="1671601871820" duration="264000" />
+      <workItem from="1671602145606" duration="531000" />
+      <workItem from="1671683364764" duration="6043000" />
+      <workItem from="1671697231890" duration="4643000" />
     </task>
     <task id="LOCAL-00001" summary="entity mapping done, start creating DAO">
       <created>1671601679010</created>
